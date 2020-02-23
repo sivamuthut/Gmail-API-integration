@@ -5,11 +5,11 @@ This project reads messages from Gmail Inbox and performs some action on them us
   1) python version above 3.X.X
   2) Sqlite3
   3) Tkinter
-      sudo apt-get install python3.6-tk
+      1) sudo apt-get install python3.6-tk
   4) Oauth cretial 
-      i) Follow the steps in the oauth playground and get your credention.
+      1) Follow the steps in the oauth playground and get your credention.
           https://developers.google.com/oauthplayground/
-      ii) Add your oauth credentials to oauth-credential.json file.
+      2) Add your oauth credentials to oauth-credential.json file.
   
 # Manual
   1) Run gmail-api-inbox.py
