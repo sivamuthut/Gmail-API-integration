@@ -1,7 +1,7 @@
 # Gmail-API-integration
 This project reads messages from Gmail Inbox and performs some action on them using Gmail-API.
 
-# Prerequisite
+## Prerequisite
   1) python version above 3.X.X
   2) Sqlite3
   3) Tkinter
@@ -11,11 +11,11 @@ This project reads messages from Gmail Inbox and performs some action on them us
           https://developers.google.com/oauthplayground/
       2) Add your oauth credentials to oauth-credential.json file.
   
-# Manual
+## Manual
   1) Run gmail-api-inbox.py
   2) Enter your MailId and it will take some to fetch your inbox.
-  3) Frame your rule set in the GUY and submit.
-  4) In result GUI click
+  3) Frame your rule set in the GUI and submit.
+  4) In result, click
       1) "Ok" --> to quit
       2) "Try Again" --> to frame a new rule set
 
