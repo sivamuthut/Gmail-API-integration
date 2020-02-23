@@ -16,8 +16,8 @@ This project reads messages from Gmail Inbox and performs some action on them us
   2) Enter your MailId and it will take some to fetch your inbox.
   3) Frame your rule set in the GUY and submit.
   4) In result GUI click
-      "Ok" --> to quit
-      "Try Again" --> to frame a new rule set
+      1) "Ok" --> to quit
+      2) "Try Again" --> to frame a new rule set
 
       
       
